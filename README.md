@@ -10,7 +10,7 @@ The code examples and direct quotes are all from Raymond's talk. I've reproduced
 for i in [0, 1, 2, 3, 4, 5]:
     print i**2
 
-for i in range(6):
+ge(6):
     print i**2
 ```
 
